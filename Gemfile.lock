@@ -223,7 +223,7 @@ DEPENDENCIES
   puma (~> 3.11)
   rails (~> 5.2.0)
   rails-i18n (~> 5.1)
-  sass-rails (>= 3.2)
+  sass-rails (~> 5.0)
   selenium-webdriver
   spring
   spring-watcher-listen (~> 2.0.0)
@@ -236,7 +236,7 @@ DEPENDENCIES
   webpacker
 
 RUBY VERSION
-   ruby 2.5.0p0
+   ruby 2.6.8p205
 
 BUNDLED WITH
    1.17.3
