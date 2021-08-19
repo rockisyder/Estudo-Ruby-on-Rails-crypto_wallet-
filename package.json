@@ -1,0 +1,12 @@
+{
+  "name": "crypto_wallet",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "notify-js-legacy": "^0.4.1"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jorlan",
+  "license": "MIT"
+}

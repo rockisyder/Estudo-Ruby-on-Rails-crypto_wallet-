@@ -1,0 +1,21 @@
+<p id="notice"><%= notice %></p>
+
+<h1><%= t('showing.mining_type')%></h1>
+
+<form >
+
+  <div class="mb-3">
+    <strong><%= t('description')%> </strong> 
+    <%= text_field_tag nil, @mining_type.name, class:"form-control", disabled: true%>
+  </div>
+
+  <div class="mb-3">
+    <strong><%= t('acronym')%></strong>
+    <%= text_field_tag nil, @mining_type.acronym, class:"form-control",disabled: true %>
+  </div>
+
+
+</form>
+
+<%= link_to t('link.edit'), edit_mining_type_path(@mining_type), class:"btn btn-primary btn-sm", type:"button" %> 
+<%= link_to t('link.back'), mining_types_path, class:"btn btn-primary btn-sm", type:"button" %>

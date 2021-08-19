@@ -1,0 +1,9 @@
+=> [32m#<Coin:0x00005571d483bf30[0m
+ id: [1;34m2[0m,
+ description: [31m[1;31m"[0m[31mEthereum[1;31m"[0m[31m[0m,
+ acronym: [31m[1;31m"[0m[31mETH[1;31m"[0m[31m[0m,
+ url_image:
+  [31m[1;31m"[0m[31mhttps://img1.gratispng.com/20180330/gkq/kisspng-ethereum-bitcoin-cryptocurrency-logo-tether-bitcoin-5abdfe01865749.6048300215224007695503.jpg[1;31m"[0m[31m[0m,
+ created_at: [1;34;4mWed[0m, [1;34m11[0m [1;34;4mAug[0m [1;34m2021[0m [1;34m13[0m:[1;34m37[0m:[1;34m37[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+ updated_at: [1;34;4mWed[0m, [1;34m11[0m [1;34;4mAug[0m [1;34m2021[0m [1;34m13[0m:[1;34m37[0m:[1;34m59[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+ mining_type_id: [1;36mnil[0m[32m>[0m

@@ -1,0 +1,12 @@
+<div class="p-5 mb-4 bg-light rounded-3">
+    <div class="container-fluid py-5">
+        <h1 class="display-5 fw-bold"><%= t('welcome') %></h1>
+        <p class="col-md-8 fs-5"><%= t('messagens.welcome')%></p>
+        <hr class ="my-4">
+        <p class="col-md-8 fs-4"><%= t('messagens.menu')%></p>
+        <%= render "menu"%>
+    </div>
+</div>
+
+
+<strong>Data: </strong><%=Date.today %> 
