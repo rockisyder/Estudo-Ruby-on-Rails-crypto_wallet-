@@ -227,7 +227,7 @@ DEPENDENCIES
   pg
   pry-rails
   puma (~> 3.11)
-  rails (~> 5.2.0)
+  rails (~> 5.2.6)
   rails-i18n (~> 5.1)
   sass-rails (~> 5.0)
   selenium-webdriver
