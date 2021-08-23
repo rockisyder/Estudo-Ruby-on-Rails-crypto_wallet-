@@ -13,5 +13,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Jorlan",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-dev-server": "^4.0.0"
+  }
 }
