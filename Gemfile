@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
-
+gem 'heroku'
 gem 'pry-rails'
 gem "tty-spinner"
 gem 'rails-i18n', '~> 5.1'
@@ -68,8 +68,7 @@ end
 
 
 group :production do
-  gem 'pg', '0.15.1'
-  gem 'rails_12factor'
+  gem 'pg'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
